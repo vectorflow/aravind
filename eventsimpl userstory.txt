@@ -1,0 +1,20 @@
+- As an organizer:
+		- inventory option which can:
+				- create catalog option to create a catalog of the auction items for auction module.
+				- display catalog option to display the auction items.
+				- bid option to create bid forns for the auction items.
+				- seperate option to display the auction items in the customized website if needed.
+		- recruitment portal which can:
+				- recruit volunteers for events and assign them tasks and deadlines(used in Basic Events Module).
+				- recruit event sponsors and track their sponsorship and manage their benefits(used in Fundraiser Module). 
+		- data analyser options to: 
+				- generate reports of basic events.
+				- generate tax reciepts aftr events. 
+		- data management with options for: 
+				- recording winning bids at auctions.
+				- thank guests in events and fundriser.
+				- exporting donor data to donor management system.
+		- event tracker: 
+				- check in guests at the event.
+				- procure donated items and track donations in fundraisers.
+				- create gift certificates for auction items if needed.
